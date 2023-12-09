@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `OneMinMemory`,
+      href: "https://github.com/ByeonghwiJeong/OneMinMemory",
     },
   ],
   // blog setting (required)
